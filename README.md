@@ -33,7 +33,7 @@ The model predicts the species of Iris flowers:
 - Versicolor
 - Virginica
 
-## Run the Project
+
 
 ```bash
 python iris_classification.py
