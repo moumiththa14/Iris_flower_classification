@@ -35,5 +35,4 @@ The model predicts the species of Iris flowers:
 
 
 
-```bash
-python iris_classification.py
+
